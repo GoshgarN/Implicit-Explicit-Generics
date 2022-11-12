@@ -1,0 +1,14 @@
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\bin\Debug\netcoreapp3.1\Lesson practice.exe
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\bin\Debug\netcoreapp3.1\Lesson practice.deps.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\bin\Debug\netcoreapp3.1\Lesson practice.runtimeconfig.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\bin\Debug\netcoreapp3.1\Lesson practice.runtimeconfig.dev.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\bin\Debug\netcoreapp3.1\Lesson practice.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\bin\Debug\netcoreapp3.1\Lesson practice.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\obj\Debug\netcoreapp3.1\Lesson practice.csproj.AssemblyReference.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\obj\Debug\netcoreapp3.1\Lesson practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\obj\Debug\netcoreapp3.1\Lesson practice.AssemblyInfoInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\obj\Debug\netcoreapp3.1\Lesson practice.AssemblyInfo.cs
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\obj\Debug\netcoreapp3.1\Lesson practice.csproj.CoreCompileInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\obj\Debug\netcoreapp3.1\Lesson practice.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\obj\Debug\netcoreapp3.1\Lesson practice.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Lesson practation\Lesson practice\Lesson practice\obj\Debug\netcoreapp3.1\Lesson practice.genruntimeconfig.cache

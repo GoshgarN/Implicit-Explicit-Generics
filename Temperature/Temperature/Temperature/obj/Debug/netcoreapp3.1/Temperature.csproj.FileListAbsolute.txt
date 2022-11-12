@@ -1,0 +1,14 @@
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.exe
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.deps.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.dev.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.csproj.AssemblyReference.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfoInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfo.cs
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Implicit-Explicit-Generics\Temperature\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nerim\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nerim\\.nuget\\packages"
+    ]
+  }
+}
